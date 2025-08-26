@@ -4,8 +4,8 @@ def slice_simple():
     primeras_tres=texto[:3]
     print(primeras_tres)
 
-    medio=len(texto)//2
-    medio_letras=texto[medio-1: medio+2]
+    medio=len(texto)// 2
+    medio_letras=texto[medio-1 : medio+2]
     print(medio_letras)
 
     primera_a_cuarta=texto[:4]
