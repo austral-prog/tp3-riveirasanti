@@ -3,4 +3,4 @@ def slice_advanced():
    resultado=texto[4::2]
    print(resultado)
 
-slice_advanced()    
+    

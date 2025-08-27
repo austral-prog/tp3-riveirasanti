@@ -8,5 +8,5 @@ def slice_simple():
     
     print(texto[:4] + texto[-3:])
 
-slice_simple()
+
 

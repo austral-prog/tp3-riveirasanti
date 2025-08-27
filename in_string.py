@@ -7,4 +7,3 @@ def check_vowels():
    print("Contiene u:","u" in nombre)
 
 
-check_vowels()
